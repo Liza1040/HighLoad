@@ -168,3 +168,8 @@ k = 14 000 000 / 24 * 60 * 60 = 162 пользователя в секунду
 | Nginx | Load balancer, frontend server | Большое коммьюнити, высокая скорость работы |
 | Golang | Backend | Быстрый, производительный |
 | PostgreSQL | Database | Высокая надежность |
+
+## 5. Схема проекта
+<kbd>
+  <img src="/images/chema_project.jpg" alt="Схема проекта">
+</kbd>
